@@ -9,7 +9,7 @@ from datetime import datetime
 
 import PIL.Image
 import sys
-sys.path.insert(0, "/content/caffe/python")
+sys.path.insert(0, "/content/cs435/caffe-fr-chairs/python")
 import caffe
 import numpy as np
 import scipy.io as sio
